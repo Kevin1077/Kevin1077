@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋;I'm+JOSE+THOMAS)](https://git.io/typing-svg)
 <h3 align="center">A passionate coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin1077&label=Profile%20views&color=0e75b6&style=flat" alt="kevin1077" /> </p>
