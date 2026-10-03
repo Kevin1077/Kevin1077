@@ -15,8 +15,8 @@ algorithms, and web fundamentals.
 
 | | |
 |:--|:--|
-| **Primary** | Java, Python |
-| **Secondary** | C, JavaScript, HTML, CSS |
+| **Primary** | Python |
+| **Secondary** | react, C, java |
 | **Learning** | Data Structures & Algorithms |
 | **Open to** | Open source contribution, collaboration |
 | **Contact** | kevinbijukulangara@gmail.com |
@@ -27,11 +27,11 @@ algorithms, and web fundamentals.
 
 | Language | Weight | |
 |:--|:--|:--|
-| **Java** | `████████████████████` | **Primary** |
-| **Python** | `██████████████████··` | **Primary** |
-| **C** | `██████████████······` | |
+| **Python** | `████████████████████` | **Primary** |
+| **C** | `██████████████████··` | **Primary** |
+| **JavaScript** | `██████████████······` | |
 | **HTML / CSS** | `█████████████·······` | |
-| **JavaScript** | `██████████··········` | |
+| **SQL** | `██████████··········` | |
 | **Git** | `████████████········` | |
 
 ---
